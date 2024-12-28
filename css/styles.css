@@ -1,0 +1,53 @@
+*,h1, h2, h3, h4, h5, h6 {
+
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+
+}
+
+.wy-side-nav-search {
+
+    background-color: #554FCD;
+
+}
+
+.wy-nav-top {
+
+    background-color: #554FCD;
+
+}
+
+.wy-menu-vertical header, .wy-menu-vertical p.caption {
+
+    color: #6d69b4;
+
+}
+
+.wy-menu-vertical a:active {
+
+    background-color: #554FCD;
+}
+
+a {
+
+    color:#554FCD;
+
+}
+
+a:hover {
+
+    color: #111;
+    text-decoration: underline;
+
+}
+
+.wy-menu-vertical a:hover {
+
+    color: #FFFF
+
+}
+
+.wy-side-nav-search input[type="text"] {
+
+    border-radius: 5px;
+
+}

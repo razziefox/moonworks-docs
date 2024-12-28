@@ -1,0 +1,12 @@
+site_name: MoonWorks Docs
+
+repo_url: https://github.com/MoonsideGames/MoonWorks
+site_description: Documentation for MoonWorks
+edit_uri: blob/main/docs/
+
+theme:
+  name: readthedocs
+  #logo: img/logo.png
+  
+extra_css: 
+  - css/styles.css
